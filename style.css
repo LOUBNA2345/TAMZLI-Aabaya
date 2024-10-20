@@ -1,0 +1,37 @@
+.position-relative input {
+    padding-right: 35px; /* Add space for the icon */
+  }
+  
+  .position-absolute {
+    font-size: 20px;
+    pointer-events: none; /* Prevent clicking the icon */
+  }
+  nav{
+     background-color:burlywood !important;
+  }
+  
+  .navbar {
+    background-color: ;
+  }
+  .hero-title{
+    font-size: 50px;
+  }
+  
+  .btn.btn-success {
+    background-color: ;
+    border-color: ;
+  }
+  .btn{
+    background-color:rgb(255, 183, 0) ;
+  }
+  .btn-outline{
+    border-color:rgb(255, 183, 0) !important ;
+  }
+  .bg{
+    background-color:burlywood !important ;
+  }
+  .text{
+    color:burlywood !important ;
+  }
+
+ 
